@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+
+@import './utilities.scss';
+
+$color-white: #fff;
+$color-black: black;
+
+$color-slate-light: #eee;
+$color-slate-dark: #0b0d14;
+
+$color-tomato: #d13c3c;
+$color-emerald: #00a846;
+
+$font-family-default: 'Poppins', sans-serif;
+$font-family-serif: 'Merriweather', serif;
+
+// Shades of gray:
+$color-gray-1: #f7f7f7;
+$color-gray-2: #f0f0f0;
+$color-gray-3: #eee;
+$color-gray-4: #e4e4e4;
+$color-gray-5: #ccc;
+$color-gray-6: #424242;
+$color-gray-7: #111;
+$color-gray-8: #090909;
